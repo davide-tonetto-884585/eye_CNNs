@@ -20,4 +20,4 @@ The model is based on a convolutional neural network (CNN) architecture and a Re
 
 ## Dataset
 
-This project does not include a dataset due to privacy concerns. You can use publicly available datasets such as [CASIA-IrisV4](http://biometrics.idealtest.org/) or create your own dataset using a camera.
+You can use publicly available datasets such as [CASIA-Iris-Degradation](http://biometrics.idealtest.org/#/datasetDetail/26) or create your own dataset using a camera.
